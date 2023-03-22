@@ -1,9 +1,6 @@
 ### Hi there, I am João Thiago 👋
 
 - 🔭 I am currently a student of the computer science course;
-- 🌱 learning Python, Javascript, HTML and CSS;
-- 👯 I’m looking to collaborate on any enterprise, working with front-end.
-- 📫 How to reach me: joaot523@gmail.com
 
 <div align="left">
   <a href="https://github.com/JoaoThiagoNunes">
