@@ -1,7 +1,7 @@
 ### Hi there, I am João Thiago 👋
 
 - Student of the computer science course | Estudante do curso de ciência da computação;
-- I am ready to collaborate and solve problems with leadership and responsibility | Estou pronto para colaborar e resolver problemas com liderança e responsabilidade;
+- I am ready to collaborate and solve problems with leadership and responsibility | Pronto para colaborar e resolver problemas com liderança e responsabilidade;
 - Looking for an internship to improve my knowledge | Em busca de um estágio para aprimorar meus conhecimentos.
   
 </div>
