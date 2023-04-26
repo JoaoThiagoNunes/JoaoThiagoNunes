@@ -1,10 +1,8 @@
 ### Hi there, I am João Thiago 👋
 
-- Student of the computer science course;
-
-<div align="left">
-  <a href="https://github.com/JoaoThiagoNunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoThiagoNunes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+- Student of the computer science course | Estudante do curso de ciência da computação;
+- I am ready to collaborate and solve problems with leadership and responsibility | Estou pronto para colaborar e resolver problemas com liderança e responsabilidade;
+- Looking for an internship to improve my knowledge | Em busca de um estágio para aprimorar meus conhecimentos.
   
 </div>
 <div style="display: inline_block"><br>
