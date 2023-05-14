@@ -37,6 +37,7 @@
   <a href="https://www.linkedin.com/in/joão-thiago-517163227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
     
+#Github stats
 <div align="left">
   <a href="[https://github.com/JoaoThiagoNunes](https://github.com/JoaoThiagoNunes)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoThiagoNunes&show_icons&theme=vue-dark&include_all_commits=true&count_private=true"/>
