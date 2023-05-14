@@ -5,9 +5,11 @@
 
 # Skills
 * 💻: Python
+* 💻: Django
+* 💻: Java
 * 🖥: SQL, MySQL, MongoDB
 * ☁️: Google Cloud
-* 📙: Calculation
+
 
 <div style="display: inline_block"><br>
     <ul style="text-align: left">
