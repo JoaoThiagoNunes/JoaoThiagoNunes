@@ -2,7 +2,7 @@
 - Student of the computer science course | Estudante do curso de ciência da computação;
 - I am ready to collaborate and solve problems with leadership and responsibility | Pronto para colaborar e resolver problemas com liderança e responsabilidade;
 - Looking for an internship to improve my knowledge | Em busca de um estágio para aprimorar meus conhecimentos.
-
+#### Tecnologias 
 <div style="display: inline_block"><br>
     <p align="center">
   <a href="https://skillicons.dev">
