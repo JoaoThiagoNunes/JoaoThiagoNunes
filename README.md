@@ -3,8 +3,14 @@
 - I am ready to collaborate and solve problems with leadership and responsibility | Pronto para colaborar e resolver problemas com liderança e responsabilidade;
 - Looking for an internship to improve my knowledge | Em busca de um estágio para aprimorar meus conhecimentos.
 
+# Skills
+* 💻: Python
+* 🖥: SQL, MySQL, MongoDB
+* ☁️: Google Cloud
+* 📙: Calculation
+
 <div style="display: inline_block"><br>
-    <ul style="text-align: center">
+    <ul style="text-align: left">
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,bootstrap,git,java,html,css,js" />
@@ -12,7 +18,7 @@
 </p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="[https://github.com/JoaoThiagoNunes](https://github.com/JoaoThiagoNunes)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoThiagoNunes&show_icons&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoThiagoNunes&layout=compact&langs_count=16&theme=vue-dark"/>
