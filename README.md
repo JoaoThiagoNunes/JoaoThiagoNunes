@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,py,django,html,js" />
+    <img src="https://skillicons.dev/icons?i=git,java,py,django,bootstrap" />
   </a>
 </p>
 </div>
