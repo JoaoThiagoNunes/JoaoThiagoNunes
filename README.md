@@ -19,5 +19,5 @@
   <a href="https://www.linkedin.com/in/joão-thiago-517163227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoThiagoNunes&bg_color=00171F&color=1c88deline=0EAD69&point=f9e900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoThiagoNunes&bg_color=90bfcf&color=1c88deline=0EAD69&point=f9e900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
