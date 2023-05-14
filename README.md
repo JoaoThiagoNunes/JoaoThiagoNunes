@@ -2,21 +2,11 @@
 - Student of the computer science course | Estudante do curso de ciência da computação;
 - I am ready to collaborate and solve problems with leadership and responsibility | Pronto para colaborar e resolver problemas com liderança e responsabilidade;
 - Looking for an internship to improve my knowledge | Em busca de um estágio para aprimorar meus conhecimentos.
-  
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="jt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jt-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jt-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="jt-Java" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
 
 <div style="display: inline_block"><br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,py,django,,html,js" />
+    <img src="https://skillicons.dev/icons?i=git,java,py,django,html,js" />
   </a>
 </p>
 </div>
