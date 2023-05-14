@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c88desize=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem+vindo+ao+meu+perfil:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c88desize=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 - Student of the computer science course | Estudante do curso de ciência da computação;
 - I am ready to collaborate and solve problems with leadership and responsibility | Pronto para colaborar e resolver problemas com liderança e responsabilidade;
 - Looking for an internship to improve my knowledge | Em busca de um estágio para aprimorar meus conhecimentos.
