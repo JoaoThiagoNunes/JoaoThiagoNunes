@@ -11,7 +11,7 @@
 
 <div style="display: inline_block"><br>
     <ul style="text-align: left">
-    <p align="center">
+    <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,bootstrap,git,java,html,css,js" />
   </a>
