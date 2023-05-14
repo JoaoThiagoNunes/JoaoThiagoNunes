@@ -7,7 +7,7 @@
 * 💻: Python
 * 📶: Django
 * ⌨️: Java
-* 🖥: SQL, MySQL, MongoDB
+* 🌐: SQL, MySQL, MongoDB
 * ☁️: Google Cloud
 
 
