@@ -5,8 +5,8 @@
 
 # Skills
 * 💻: Python
-* 💻: Django
-* 💻: Java
+* 📶: Django
+* ⌨️: Java
 * 🖥: SQL, MySQL, MongoDB
 * ☁️: Google Cloud
 
