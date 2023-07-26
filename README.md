@@ -16,7 +16,7 @@
     <ul style="text-align: left">
     <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,bootstrap,git,java,springboot,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=py,django,bootstrap,git,java,Springboot,html,css,js" />
   </a>
 </p>
 </div>
