@@ -8,7 +8,7 @@
     <ul style="text-align: left">
     <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,git,gcp,nodejs, vercel" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,git,gcp,nodejs," />
   </a>
 </p>
 </div>
