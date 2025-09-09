@@ -4,11 +4,11 @@
 - Looking for an internship to improve my knowledge | Em busca de um estágio para aprimorar meus conhecimentos.
 
 # Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <ul style="text-align: left">
     <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,git,gcp,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,git,gcp,nodejs, vercel" />
   </a>
 </p>
 </div>
